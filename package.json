@@ -1,0 +1,19 @@
+{
+  "name": "mommapp",
+  "version": "1.0.0",
+  "description": "Mommapp is a site for people who are looking to experience, or re-experience, that feeling of motherly tenderness and love through a rental mom.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smoothpine/Mommapp.git"
+  },
+  "author": "Philip Lofters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smoothpine/Mommapp/issues"
+  },
+  "homepage": "https://github.com/Smoothpine/Mommapp#readme"
+}
